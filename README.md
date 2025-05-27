@@ -1,16 +1,69 @@
-## Hi there 👋
+<!-- Typing animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Debjit+Saha+(debjit-cmd)!;Full-Stack+Web+Developer;MERN+%2B+GoLang+%2B+TypeScript+Lover;Let's+Build+Something+Awesome+🚀" alt="Typing SVG" />
+</h1>
 
-<!--
-**Debjit-cmd/Debjit-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 About Me  
+I'm a full-stack web developer skilled in the **MERN stack** and currently exploring **Go (Golang)** to build high-performance backends. I’m passionate about crafting full-stack web applications that are scalable, user-friendly, and fast. I also enjoy tinkering with system tools, algorithms, and creative design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 🧑‍💻 Languages & Frameworks  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?logo=chart.js&logoColor=white)](https://www.chartjs.org/)
+
+#### ⚙️ Frameworks & Libraries  
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+#### 🛠 Tools & Platforms  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)](https://www.canva.com/)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debjit-cmd&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjit-cmd&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjit-cmd&layout=compact&theme=radical" width="50%" />
+</p>
+
+---
+
+### 🌱 Currently Exploring  
+- Docker & DevOps basics  
+- Creating production-grade full-stack apps  
+
+---
+
+### 📫 Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/debjit-saha)  
+- [GitHub](https://github.com/debjit-cmd)
+
+---
+
+### ⚡ Fun Fact  
+You’re probably reading this on [github.com/debjit-cmd](https://github.com/debjit-cmd) right now 😎
