@@ -1,17 +1,16 @@
 <!-- Typing animation -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=500&size=25&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%20I'm%20Debjit%20Saha%20%F0%9F%91%8B;Full-Stack%20Web%20Developer%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Frontend%20%2B%20Backend%20%3D%20%E2%9D%A4%EF%B8%8F;Open%20Source%20Contributor%20%F0%9F%8C%90;Linux%20User%20%7C%20Git%20Enthusiast%20%F0%9F%90%A7;Building%20Clean%20UIs%20%2B%20Powerful%20Backends%20%F0%9F%9A%80;Let's%20Code%20Something%20Awesome%20Together!%20%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=500&size=25&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%20I'm%20Debjit%20Saha%20%F0%9F%91%8B;Full-Stack%20Web%20Developer%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Frontend%20%2B%20Backend%20%3D%20%E2%9D%A4%EF%B8%8F;Open%20Source%20Contributor%20%F0%9F%8C%90;Linux%20User%20%7C%20Git%20Enthusiast%20%F0%9F%90%A7"
     alt="Typing SVG"
   />
 </h1>
 ---
 
 ### 💻 About Me  
-I'm a full-stack web developer skilled in the **MERN stack** and currently exploring **Go (Golang)** to build high-performance backends. I’m passionate about crafting full-stack web applications that are scalable, user-friendly, and fast. I also enjoy tinkering with system tools, algorithms, and creative design.
+I'm a full-stack web developer skilled in the **MERN stack** and currently exploring Devops. I’m passionate about crafting full-stack web applications that are scalable, user-friendly, and fast. I also enjoy tinkering with system tools, algorithms, and creative design.
 
 ---
-
 ### 🛠️ Tech Stack & Tools
 
 #### 🧑‍💻 Languages & Frameworks
