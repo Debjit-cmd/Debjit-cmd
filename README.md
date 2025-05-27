@@ -6,8 +6,13 @@
   />
 </h1>
 
-### 💻 About Me  
-I'm a full-stack web developer skilled in the **MERN stack** and currently exploring Devops. I’m passionate about crafting full-stack web applications that are scalable, user-friendly, and fast. I also enjoy tinkering with system tools, algorithms, and creative design.
+### 💻 About Me
+
+👋 Hi, I'm Debjit Saha
+🎓 I'm currently pursuing B.Tech in Computer Engineering at KIIT University
+🤝 I'm open to collaborating on innovative tech projects, open-source contributions, and creative problem-solving
+📫 How to reach me: debjitsaha241@gmail.com
+☕ I'm a full-stack web developer skilled in the **MERN stack** and currently exploring Devops.
 
 ---
 ### 🛠️ Tech Stack & Tools
@@ -18,7 +23,6 @@ I'm a full-stack web developer skilled in the **MERN stack** and currently explo
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?logo=chart.js&logoColor=white)](https://www.chartjs.org/)
@@ -58,9 +62,9 @@ I'm a full-stack web developer skilled in the **MERN stack** and currently explo
 ---
 
 ### 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/debjit-saha)  
-- [GitHub](https://github.com/debjit-cmd)
+- [LinkedIn](https://www.linkedin.com/in/debjit-saha-a1086b250/)  
+- [GitHub](https://github.com/Debjit-cmd)
 
 ---
 ### ⚡ Fun Fact  
-You’re probably reading this on [github.com/debjit-cmd](https://github.com/debjit-cmd) right now 😎
+You’re probably reading this on [github.com/debjit-cmd](https://github.com/Debjit-cmd) right now 😎
