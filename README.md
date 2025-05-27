@@ -5,7 +5,6 @@
     alt="Typing SVG"
   />
 </h1>
----
 
 ### 💻 About Me  
 I'm a full-stack web developer skilled in the **MERN stack** and currently exploring Devops. I’m passionate about crafting full-stack web applications that are scalable, user-friendly, and fast. I also enjoy tinkering with system tools, algorithms, and creative design.
