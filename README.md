@@ -1,11 +1,10 @@
 <!-- Typing animation -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=25&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Debjit+Saha+👋;Full-Stack+Web+Developer+🧑‍💻;MERN+%2B+TypeScript+%3D+❤️;Open+Source+Contributor+🌐;Linux+User+%7C+Git+Enthusiast+🐧;Building+Clean+UIs+%2B+Powerful+Backends+🚀;Let%27s+Code+Something+Awesome+Together!+✨"
+    src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=500&size=25&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%20I'm%20Debjit%20Saha%20%F0%9F%91%8B;Full-Stack%20Web%20Developer%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Frontend%20%2B%20Backend%20%3D%20%E2%9D%A4%EF%B8%8F;Open%20Source%20Contributor%20%F0%9F%8C%90;Linux%20User%20%7C%20Git%20Enthusiast%20%F0%9F%90%A7;Building%20Clean%20UIs%20%2B%20Powerful%20Backends%20%F0%9F%9A%80;Let's%20Code%20Something%20Awesome%20Together!%20%E2%9C%A8"
     alt="Typing SVG"
   />
 </h1>
-
 ---
 
 ### 💻 About Me  
@@ -15,7 +14,7 @@ I'm a full-stack web developer skilled in the **MERN stack** and currently explo
 
 ### 🛠️ Tech Stack & Tools
 
-#### 🧑‍💻 Languages & Frameworks  
+#### 🧑‍💻 Languages & Frameworks
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -24,22 +23,20 @@ I'm a full-stack web developer skilled in the **MERN stack** and currently explo
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?logo=chart.js&logoColor=white)](https://www.chartjs.org/)
-
-#### ⚙️ Frameworks & Libraries  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 #### 🛠 Tools & Platforms  
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)](https://www.canva.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 
 ---
 
@@ -67,6 +64,5 @@ I'm a full-stack web developer skilled in the **MERN stack** and currently explo
 - [GitHub](https://github.com/debjit-cmd)
 
 ---
-
 ### ⚡ Fun Fact  
 You’re probably reading this on [github.com/debjit-cmd](https://github.com/debjit-cmd) right now 😎
