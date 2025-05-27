@@ -8,15 +8,13 @@
 
 ### 💻 About Me
 
-👋 Hi, I'm Debjit Saha
 
-🎓 I'm currently pursuing **B.Tech in Computer Engineering at KIIT University**
+👋 Hi, I'm Debjit Saha  
+🎓 I'm currently pursuing **B.Tech in Computer Engineering at KIIT University**  
+🛡️ I'm open to collaborating on innovative tech projects, open-source contributions, and creative problem-solving  
+📬 How to reach me: [debjitsaha241@gmail.com](mailto:debjitsaha241@gmail.com)  
+🪄 I'm a full-stack web developer skilled in the **MERN stack** and currently exploring **DevOps**
 
-🤝 I'm open to collaborating on innovative tech projects, open-source contributions, and creative problem-solving
-
-📫 How to reach me: debjitsaha241@gmail.com
-
-☕ I'm a full-stack web developer skilled in the **MERN stack** and currently exploring Devops.
 
 ---
 ### 🛠️ Tech Stack & Tools
