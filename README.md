@@ -1,6 +1,9 @@
 <!-- Typing animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Debjit+Saha+(debjit-cmd)!;Full-Stack+Web+Developer;MERN+%2B+GoLang+%2B+TypeScript+Lover;Let's+Build+Something+Awesome+🚀" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%20I%27m%20Debjit%20Saha%20(debjit-cmd)!;Full-Stack%20Web%20Developer;MERN%20%2B%20GoLang%20%2B%20TypeScript%20Lover;Let%27s%20Build%20Something%20Awesome%20%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </h1>
 
 ---
