@@ -59,14 +59,31 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debjit-cmd&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjit-cmd&theme=radical" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjit-cmd&layout=compact&theme=radical" width="50%" />
-</p>
+  <!-- GitHub Overall Stats -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=debjit-cmd&show_icons=true&theme=radical" width="40%" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjit-cmd&theme=radical" width="40%" alt="GitHub Streak" />
+  </p>
+
+  <!-- Top Languages -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjit-cmd&layout=compact&theme=radical" width="70%" alt="Top Languages" />
+  </p>
+
+  <!-- Most Starred Repos -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=debjit-cmd&theme=radical" width="70%" alt="WakaTime Stats" />
+  </p>
+
+  <!-- Contribution Calendar -->
+  <p>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=debjit-cmd&theme=radical" width="90%" alt="Contribution Graph" />
+  </p>
+
+</div>
+
 
 ---
 
