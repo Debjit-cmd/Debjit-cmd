@@ -63,23 +63,23 @@
 
   <!-- GitHub Overall Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=debjit-cmd&show_icons=true&theme=radical" width="40%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?user=debjit-cmd&show_icons=true&theme=radical" width="40%" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjit-cmd&theme=radical" width="40%" alt="GitHub Streak" />
   </p>
 
   <!-- Top Languages -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjit-cmd&layout=compact&theme=radical" width="70%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=debjit-cmd&layout=compact&theme=radical" width="70%" alt="Top Languages" />
   </p>
 
   <!-- Most Starred Repos -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=debjit-cmd&theme=radical" width="70%" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?user=debjit-cmd&theme=radical" width="70%" alt="WakaTime Stats" />
   </p>
 
   <!-- Contribution Calendar -->
   <p>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=debjit-cmd&theme=radical" width="90%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?user=debjit-cmd&theme=radical" width="90%" alt="Contribution Graph" />
   </p>
 
 </div>
