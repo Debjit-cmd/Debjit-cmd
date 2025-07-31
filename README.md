@@ -45,6 +45,7 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 #### ☁️ Cloud & DevOps Tools
@@ -52,8 +53,15 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
+
+---
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -69,21 +77,15 @@
 
   <!-- Top Languages -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=debjit-cmd&layout=compact&theme=radical" width="70%" alt="Top Languages" />
-  </p>
-
-  <!-- Most Starred Repos -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?user=debjit-cmd&theme=radical" width="70%" alt="WakaTime Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjit-cmd&layout=compact&theme=radical" width="70%" alt="Top Languages" />
   </p>
 
   <!-- Contribution Calendar -->
   <p>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?user=debjit-cmd&theme=radical" width="90%" alt="Contribution Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=debjit-cmd&theme=radical" width="90%" alt="Contribution Graph" />
   </p>
 
 </div>
-
 
 ---
 
@@ -93,10 +95,17 @@
 
 ---
 
-### 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/debjit-saha-a1086b250/)  
-- [GitHub](https://github.com/Debjit-cmd)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/debjjit_saha/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-saha-a1086b250/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DebjitS06067806) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Debjit-cmd)
 
 ---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ### ⚡ Fun Fact  
 You’re probably reading this on [github.com/debjit-cmd](https://github.com/Debjit-cmd) right now 😎
+
+---
