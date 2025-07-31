@@ -64,7 +64,7 @@
   <!-- GitHub Overall Stats -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Debjit-cmd&show_icons=true&theme=radical" width="40%" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?username=Debjit-cmd&theme=radical" width="40%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debjit-cmd&theme=radical" width="40%" alt="GitHub Streak" />
   </p>
 
   <!-- Top Languages -->
