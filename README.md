@@ -95,8 +95,13 @@
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/debjjit_saha/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-saha-a1086b250/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DebjitS06067806) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Debjit-cmd)
+## 🌐 Connect & Code with Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/debjjit_saha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-saha-a1086b250/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DebjitS06067806) 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Debjit-cmd)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232C2D31.svg?logo=hackerrank&logoColor=06B53B)](https://www.hackerrank.com/profile/debjitsaha241)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%230F1111.svg?logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Debjit_Saha-10/) 
 
 ---
 
