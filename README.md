@@ -101,12 +101,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Debjit-cmd&icon=0&color=0" />
-  </a>
-</p>
-
 
 ### 🌱 Currently Exploring  
 - Docker & DevOps basics  
